@@ -1,6 +1,9 @@
 # ChemDes
 An integrated web-based platform for molecular descriptor and fingerprint computation.<br>
 It is now avaliable at: http://www.scbdd.com/chemdes
+<br/>
+<br/>
+![ChemDes](http://www.scbdd.com/static/img/img/chemdes.png)
 
 ## Introduction
  ChemDes is a free web-based platform for the calculation of molecular descriptors and fingerprints, which provides more than 
